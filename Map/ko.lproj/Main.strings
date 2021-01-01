@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6EU-Kj-QKc"; */
+"6EU-Kj-QKc.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ceX-ZL-QaG"; */
+"ceX-ZL-QaG.text" = "Label";
+
+/* Class = "UISegmentedControl"; j29-vp-2Qe.segmentTitles[0] = "First"; ObjectID = "j29-vp-2Qe"; */
+"j29-vp-2Qe.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; j29-vp-2Qe.segmentTitles[1] = "Second"; ObjectID = "j29-vp-2Qe"; */
+"j29-vp-2Qe.segmentTitles[1]" = "Second";
